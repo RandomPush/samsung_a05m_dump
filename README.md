@@ -1,0 +1,14 @@
+# a05mxx-user 14 UP1A.231005.007 A055FXXS7CXJ1 release-keys
+- manufacturer: samsung
+- platform: mt6768
+- codename: a05m
+- flavor: a05mxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A055FXXS7CXJ1
+- tags: release-keys
+- fingerprint: samsung/a05mxx/a05m:12/SP1A.210812.016/A055FXXS7CXJ1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a05mxx-user-14-UP1A.231005.007-A055FXXS7CXJ1-release-keys
+- repo: samsung_a05m_dump
